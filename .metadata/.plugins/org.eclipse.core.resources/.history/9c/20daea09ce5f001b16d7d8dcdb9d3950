@@ -1,0 +1,19 @@
+package com.bss.controlstatement;
+
+public class ReturnStatement {
+
+	public static void main(String[] args) {
+		int x = 30;
+	      int y = 70;
+	      int z = x+y;
+	      return z;
+	   }
+	   public static void main(String args[]) {
+	      ReturnTypeTest1 test = new ReturnTypeTest1();
+	      int add = test.add();
+	      System.out.println("The sum of x and y is: " + add);
+		// TODO Auto-generated method stub
+
+	}
+
+}

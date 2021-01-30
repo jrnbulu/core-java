@@ -1,0 +1,13 @@
+package com.bss.module1;
+
+public class Multiplication {
+
+	public static void main(String[] args) {
+		int x,product;//variable declaration
+		product=num1*num2;//multiplication of numbers
+		System.out.println("The product of given two numbers is: "+product);
+		// TODO Auto-generated method stub
+
+	}
+
+}

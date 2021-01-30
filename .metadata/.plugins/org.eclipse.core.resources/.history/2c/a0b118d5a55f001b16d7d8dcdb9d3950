@@ -1,0 +1,18 @@
+package com.bss.operators;
+
+public class MemberOperator {
+
+	public static void main(String[] args) {
+		 double d = 20.3;
+	      int i = (int)d;
+	      System.out.println(i);
+	   }
+
+	   public static void main(String args[]) {
+	      Sample s = new Sample();
+	      s.display();
+		// TODO Auto-generated method stub
+
+	}
+
+}

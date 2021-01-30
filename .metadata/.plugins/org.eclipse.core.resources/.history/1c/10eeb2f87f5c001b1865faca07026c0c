@@ -1,0 +1,20 @@
+package com.bss.module1;
+
+import java.util.Scanner;
+
+public class SumOfNumbersInRange {
+
+	public static void main(String[] args) {
+			int start,end;
+			Scanner sc=new scanner(system.in);
+			start=sc.nextInt();
+			end=sc.nextInt();
+			int i,sum=0;
+			for(i=sum;i<=end;i++)
+			{
+				sum=sum+i;
+			}
+			System.out.print(sum);
+	}
+
+}

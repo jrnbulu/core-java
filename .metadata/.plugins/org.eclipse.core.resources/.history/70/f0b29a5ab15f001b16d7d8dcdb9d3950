@@ -1,0 +1,22 @@
+package com.bss.controlstatement;
+
+public class NestedFor {
+
+	public static void main(String[] args) {
+		  int rows = 5;
+
+		    // outer loop
+		    for (int i = 1; i <= rows; ++i) {
+
+		      // inner loop to print the numbers
+		      for (int st = 1; st <= i; st++) //st present no. of stars
+		      {
+		        System.out.print("*"+);
+		      }
+		      System.out.println( );
+		    }
+		// TODO Auto-generated method stub
+
+	}
+
+}
